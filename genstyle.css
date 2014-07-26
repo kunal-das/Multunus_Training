@@ -1,0 +1,31 @@
+.block{
+	width: 25%;
+	height: 25%;
+	position: fixed;
+}
+#center{
+	background-color: red;
+	top: 37.5%;
+	right: 37.5%;
+}
+#topright{
+	background-color: yellow;
+	top: 0px;
+	right: 0px;
+}
+#topleft{
+	background-color: blue;
+	top: 0px;
+	left: 0px;
+}
+#bottomleft{
+	background-color: green;
+	bottom: 0px;
+	left: 0px;
+}
+#bottomright{
+	background-color: black;
+	color: white;
+	bottom: 0px;
+	right: 0px;
+}
